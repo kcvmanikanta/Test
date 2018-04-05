@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p style='color:red' >No contacts found </p>
+<p style='color:red' >No contact m  s found </p>
 <p><a href='phonebook.jsp'>click here to go Home!</a><b>|</b>
 		<a href='update.jsp'>click here to update contact!</a><b>|</b>
 		<a href='search.jsp'>click here to search another contact!</a><b>|</b>
