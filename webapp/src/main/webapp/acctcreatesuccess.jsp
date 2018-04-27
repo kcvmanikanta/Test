@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-account created for ${userName}
+account created nnknknkn kbjkbjjfor ${userName}
 <p>
 <a href='login.jsp'>click here to login !</a></p>
   
